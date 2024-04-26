@@ -2,7 +2,7 @@
 
 GitLab repository: https://gitlab.tue.nl/20204732/ijnme-computational-homogenization-of-poroelastic-media
 
-DOI: 10.4121/f422cac5-b959-445d-9e2b-ad4067ee9580
+dataset DOI: https://data.4tu.nl/datasets/f422cac5-b959-445d-9e2b-ad4067ee9580
 
 ### Renan Liupekevicius Carnielli [r.liupekevicius.carnielli@tue.nl](mailto::r.liupekevicius.carnielli@tue.nl)
 
@@ -10,7 +10,7 @@ Data Availability of the IJNME article "Transient computational homogenization o
 
 Author: Renan Liupekevicius Carnielli, TU Eindhoven, April 2024
 
-## comsol.zip folder description
+## comsol.zip folder description (DOWNLOAD AVAILABLE https://data.4tu.nl/datasets/f422cac5-b959-445d-9e2b-ad4067ee9580)
 
 This zip folder contains the comsol models for the direct numerical simulations (DNS) and the homogenised macro-scale model (HOM) shown in the article. 
 
