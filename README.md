@@ -1,9 +1,5 @@
 # coho
 
-GitLab repository: https://gitlab.tue.nl/20204732/ijnme-computational-homogenization-of-poroelastic-media
-
-dataset DOI: https://data.4tu.nl/datasets/f422cac5-b959-445d-9e2b-ad4067ee9580
-
 ### Renan Liupekevicius Carnielli [r.liupekevicius.carnielli@tue.nl](mailto::r.liupekevicius.carnielli@tue.nl)
 
 Data Availability of the IJNME article "Transient computational homogenization of heterogeneous poroelastic media with local resonances"
@@ -12,6 +8,12 @@ Author: Renan Liupekevicius Carnielli, TU Eindhoven, April 2024
 
 ASSOCIATED PEER-REVIEWED PUBLICATION
 https://onlinelibrary.wiley.com/doi/10.1002/nme.7505
+
+ALTERNATIVE LINKS
+
+GitLab repository: https://gitlab.tue.nl/20204732/ijnme-computational-homogenization-of-poroelastic-media
+
+dataset DOI: https://data.4tu.nl/datasets/f422cac5-b959-445d-9e2b-ad4067ee9580
 
 ## comsol.zip folder description (DOWNLOAD AVAILABLE https://data.4tu.nl/datasets/f422cac5-b959-445d-9e2b-ad4067ee9580)
 
