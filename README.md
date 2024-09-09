@@ -10,6 +10,9 @@ Data Availability of the IJNME article "Transient computational homogenization o
 
 Author: Renan Liupekevicius Carnielli, TU Eindhoven, April 2024
 
+ASSOCIATED PEER-REVIEWED PUBLICATION
+https://onlinelibrary.wiley.com/doi/10.1002/nme.7505
+
 ## comsol.zip folder description (DOWNLOAD AVAILABLE https://data.4tu.nl/datasets/f422cac5-b959-445d-9e2b-ad4067ee9580)
 
 This zip folder contains the comsol models for the direct numerical simulations (DNS) and the homogenised macro-scale model (HOM) shown in the article. 
